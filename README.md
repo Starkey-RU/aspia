@@ -1,4 +1,4 @@
-Aspia
+Aspia Test
 =====
 Remote desktop, file transfer and system information tool.
 
